@@ -7348,10 +7348,10 @@ prisma2@^2.0.0-preview018:
   resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-preview018.tgz#ff44fe3e4997b20d7816406c0cbaadaf13e83dc8"
   integrity sha512-OB1jPk1QyMtJH9juxLzFsH7Alh2IqqZbC7jpGdHH6pJAVFGs86tPj5dxr2m9zNZHa8RrrcMMA0La1xqwY6YQjQ==
 
-probot@9.6.6:
-  version "9.6.6"
-  resolved "https://registry.yarnpkg.com/probot/-/probot-9.6.6.tgz#e158e944fa74208105a325b8eb4aa87643359edb"
-  integrity sha512-mKxY4UdKWmsMQ4+VV3z8ORAbQEaLgkCMXNlAa5Gpd24aazDCwVnlEYwpdR3G83Z/KsVOSZsLQdw6bHGArOwjRg==
+probot@9.8.0:
+  version "9.8.0"
+  resolved "https://registry.yarnpkg.com/probot/-/probot-9.8.0.tgz#7bd1469dadf0232955df1a54cce43ca04fc5d543"
+  integrity sha512-isEGOfNgsBUi47sh7C9ZhkSPRIRr6b4i8JwtyDpJI6YZH++zB+tDogMsdvFj5EOZxwgeqfXfZKnVtOGRdByhFQ==
   dependencies:
     "@octokit/app" "^4.0.0"
     "@octokit/graphql" "^4.2.0"
@@ -7384,7 +7384,7 @@ probot@9.6.6:
     qs "^6.5.2"
     raven "^2.4.2"
     resolve "^1.4.0"
-    semver "^6.0.0"
+    semver "^7.0.0"
     supports-color "^7.0.0"
     update-dotenv "^1.1.0"
     uuid "^3.2.1"
@@ -8128,6 +8128,11 @@ semver@^6.0.0, semver@^6.2.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
+
+semver@^7.0.0:
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.1.1.tgz#29104598a197d6cbe4733eeecbe968f7b43a9667"
+  integrity sha512-WfuG+fl6eh3eZ2qAf6goB7nhiCd7NPXhmyFxigB/TOkQyeLP8w8GsVehvtGNtnNmyboz4TgeK40B1Kbql/8c5A==
 
 semver@~5.3.0:
   version "5.3.0"
